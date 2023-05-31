@@ -1,0 +1,48 @@
+
+p{
+    font-style:italic;
+    border:grey;
+    text-align: center;
+    font-size: medium;
+}
+li {
+    list-style:none;
+    margin:auto;
+}
+ul{
+    padding-left:0%;
+    
+}
+span{
+    font-weight: bold;
+}
+body{
+    background-color:brown;
+    border: solid black;
+    box-shadow:1px;
+    display:block;
+    width: 300px ;
+    
+}
+img{
+    display:block;
+    width: 265px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+h3{
+    display:block;
+    text-align: center;
+    
+}
+div{
+    
+    border: 2px;
+    padding: 5px;
+}
+.Card-boxed{
+    margin-block-start: auto;
+    border: 2px solid black;
+    background-color:brown;
+}
